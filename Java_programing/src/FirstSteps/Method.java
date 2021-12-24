@@ -3,7 +3,7 @@ package FirstSteps;
 public class Method {
 	public static void main(String[] args) {
 				
-		System.out.println("hello");
+		System.out.println("helloo");
 		int minValue = Integer.MIN_VALUE;
         int maxValue = Integer.MAX_VALUE;
         
