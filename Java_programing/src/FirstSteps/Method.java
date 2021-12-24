@@ -9,6 +9,8 @@ public class Method {
         
         System.out.println("max value = "+maxValue);
         System.out.println("max value = "+minValue);
+        System.out.print("minValue");
+        
 	}
 	
 }
