@@ -9,8 +9,15 @@ public class Method {
         
         System.out.println("max value = "+maxValue);
         System.out.println("max value = "+minValue);
-        System.out.print("minValue");
         
+        int total = maxValue + minValue;
+        
+        System.out.println(" total value is : "+ total);
+        
+        //if else 
+        boolean isAlien = true;
+        if(isAlien == true)   //double equal tests the condition 
+        System.out.println("this is true");      
 	}
 	
 }
