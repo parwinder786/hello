@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67" started-at="2019-08-07T01:25:55Z" finished-at="2019-08-07T01:25:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67" started-at="2019-08-07T01:25:55Z" finished-at="2019-08-07T01:25:55Z">
+      <class name="Parametrization.MutltipleDataProvider">
+        <test-method status="PASS" signature="dologin(java.lang.String, java.lang.String)[pri:0, instance:Parametrization.MutltipleDataProvider@5622fdf]" name="dologin" duration-ms="13" started-at="2019-08-07T01:25:55Z" data-provider="dp1" finished-at="2019-08-07T01:25:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ghdgfgg.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method status="PASS" signature="dologin(java.lang.String, java.lang.String)[pri:0, instance:Parametrization.MutltipleDataProvider@5622fdf]" name="dologin" duration-ms="2" started-at="2019-08-07T01:25:55Z" data-provider="dp1" finished-at="2019-08-07T01:25:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gdfgg.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[as]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method status="PASS" signature="dologin(java.lang.String, java.lang.String)[pri:0, instance:Parametrization.MutltipleDataProvider@5622fdf]" name="dologin" duration-ms="2" started-at="2019-08-07T01:25:55Z" data-provider="dp1" finished-at="2019-08-07T01:25:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gg.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+      </class> <!-- Parametrization.MutltipleDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
