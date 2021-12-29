@@ -55,6 +55,16 @@ public class DataType {
 				
 				System.out.println("double minimum value is = " +MMMiniValue);
 				System.out.println("double maximum value is = " +MMMaxiValue);
+				
+				int playerage =3;
+								
+				System.out.println("the player age " +playerage--);
+				System.out.println("printing after the decrement-->prefix ");				
+				System.out.println("the player age " +playerage--);
+				
+				int player =3;
+				System.out.println("the player age postfix " + --player);
+				
 	    
 			
 	}
