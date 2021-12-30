@@ -1,4 +1,4 @@
-package Challenges;
+package challengesChapter4;
 
 public class DecimalComparator {
 
