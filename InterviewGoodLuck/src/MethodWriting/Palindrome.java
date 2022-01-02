@@ -26,6 +26,7 @@ public class Palindrome {
 		// TODO Auto-generated method stub
 
 		palindrome("nitinw");
+		palindrome("121");
 	}
 
 }
