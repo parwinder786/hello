@@ -9,9 +9,9 @@ public class forLoop {
 
 		// for(init;termination;increment) {}
 
-		// for(int i=0;i <5;i++) {
-		// System.out.println(" Loop "+ i + " Hello;");
-		// }
+		 for(int i=0;i <5;i++) {
+		 System.out.println(" Loop "+ i + " Hello;");
+		 }
 
 		for (int i = 2; i < 9; i++) {
 			//System.out.println("10000 at " + i + " % interest " + calculateInterest(10000, i));
