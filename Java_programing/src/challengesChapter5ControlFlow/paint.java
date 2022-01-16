@@ -25,11 +25,13 @@ public class paint {
 		}
 		double area = width * height; // 7.14
 		double newArea = area / areaPerBucket; // 4.76
-		
-		//int neededBucket = (int) Math.round(newArea - extraBuckets);
-		
+
+		// int neededBucket = (int) Math.round(newArea - extraBuckets);
+		// The Math.ceil() method rounds a number UPWARDS to the nearest integer, and
+		// returns the resul
 		int neededBucket = (int) Math.ceil(newArea - extraBuckets);
 		return neededBucket;
+
 	}
 
 	public static int getBucketCount(double width, double height, double areaPerBucket) {
