@@ -24,6 +24,14 @@ public class automaticalyCreateGetterSetter {
 
 	}
 
+//	public automaticalyCreateGetterSetter(String accountNumber, String customerName) {
+//		/*super();
+//		this.accountNumber = accountNumber;
+//		this.customerName = customerName;*/
+//		// this is automatically created constructor
+//		this(9999,"parry");
+//	}
+
 	public String accountNumber, customerName, email, phoneNumber, number;
 	public double balance;
 
